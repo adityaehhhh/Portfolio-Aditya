@@ -248,7 +248,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     title: "Frontend Engineer (freelance)",
     size: ItemSize.SMALL,
     subtitle:
-      "Built solutions for employee engagement, productivity and performance",
+      "Built solutions for transaction assurance and safety with Interactive and Engaging UI/UX.",
     image: "/timeline/knnx.svg",
     slideImage: "/timeline/knnx.png",
     shouldDrawLine: true,
@@ -273,7 +273,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     title: "Code For Bharat 2.0 (Finalist)",
     size: ItemSize.SMALL,
     subtitle:
-      "Top 3 amongst 1,63000+ applicants for a national level coding competition organized by Govt. of India and HackWithIndia.",
+      "Top 3 amongst 1,63,000+ applicants for a national level coding competition organized by Govt. of India and HackWithIndia.",
     image: "/timeline/code.webp",
     slideImage: "/timeline/code.jpeg",
     shouldDrawLine: true,
@@ -309,7 +309,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     title: "Escorts Kubota Pvt. Ltd. (Intern)",
     size: ItemSize.SMALL,
     subtitle:
-      "Won SpaceCon 3.0, a space-themed hackathon organized by Ashoka University.",
+      "Built a tractor QR based scanner & generator model & Centralized Notification System which has 100+ SMS templates & adapted by the company.",
     image: "/timeline/escorts.webp",
     slideImage: "/timeline/escorts.jpeg",
     shouldDrawLine: true,
